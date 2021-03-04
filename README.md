@@ -11,7 +11,6 @@ Factors are a very useful type of variable in R, but they can also be
 very aggravating. The goal of foofactors is to provide some helper
 functions for the care and feeding of factors.
 
-..
 
 ## Installation
 
